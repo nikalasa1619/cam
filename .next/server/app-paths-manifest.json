@@ -1,15 +1,3 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
-  "/brand-kit/page": "app/brand-kit/page.js",
-  "/campaigns/page": "app/campaigns/page.js",
-  "/activity/page": "app/activity/page.js",
-  "/exports/page": "app/exports/page.js",
-  "/jobs/page": "app/jobs/page.js",
-  "/page": "app/page.js",
-  "/onboarding/page": "app/onboarding/page.js",
-  "/settings/page": "app/settings/page.js",
-  "/team/page": "app/team/page.js",
-  "/products/page": "app/products/page.js",
-  "/claim-policies/page": "app/claim-policies/page.js",
-  "/variants/page": "app/variants/page.js"
+  "/page": "app/page.js"
 }
